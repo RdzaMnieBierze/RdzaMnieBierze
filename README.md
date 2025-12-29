@@ -1,16 +1,29 @@
-## Hi there 👋
+# Dzień Dobry! 👋
 
-<!--
-**RdzaMnieBierze/RdzaMnieBierze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentem **Informatyki** na **Politechnice Śląskiej** 🎓 (**Wydział Matematyki Stosowanej** 📐). 
 
-Here are some ideas to get you started:
+Pasjonuję się tworzeniem gier oraz aplikacj desktopowych i Sztuczną Inteligencją. Lubię łączyć kreatywność z analitycznym myśleniem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mój Stack Technologiczny
+
+**🧠 Artificial Intelligence & Data Science**
+* **Sieci Neuronowe:** Projektowanie i trenowanie modeli (Deep Learning).
+* **Algorytmy ML:** Biegła znajomość i implementacja:
+    * *K-Nearest Neighbors (KNN)*
+    * *Linear Regression*
+    * *Naive Bayes Classifier*
+* **Narzędzia:** 🐍 Python, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+
+**🎮 GameDev & Software Development**
+* 👾 **Unity** & **C#**
+* ⚙️ **C# .NET** (WPF i Blazor)
+* ⚙️ **C++** (z biblioteką SFML)
+* 🗄️ **SQL**
+
+---
+
+### 🏆 Osiągnięcia
+
+* **6. Miejsce** na **BIT FESTIWAL 2025** (Kategoria GameJam) 🥉
