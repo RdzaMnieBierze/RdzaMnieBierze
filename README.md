@@ -18,7 +18,7 @@ Pasjonuję się tworzeniem gier oraz aplikacj desktopowych i Sztuczną Inteligen
 
 **🎮 GameDev & Software Development**
 * 👾 **Unity** & **C#**
-* ⚙️ **C# .NET** (WPF i Blazor)
+* ⚙️ **C# .NET**
 * ⚙️ **C++** (z biblioteką SFML)
 * 🗄️ **SQL**
 
