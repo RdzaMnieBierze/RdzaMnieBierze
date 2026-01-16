@@ -6,7 +6,7 @@ Pasjonuję się tworzeniem gier oraz aplikacj desktopowych i Sztuczną Inteligen
 
 ---
 
-### 🚀 Mój Stack Technologiczny
+###  Mój Stack Technologiczny
 
 **🧠 Artificial Intelligence & Data Science**
 * **Sieci Neuronowe:** Projektowanie i trenowanie modeli (Deep Learning).
@@ -14,13 +14,13 @@ Pasjonuję się tworzeniem gier oraz aplikacj desktopowych i Sztuczną Inteligen
     * *K-Nearest Neighbors (KNN)*
     * *Linear Regression*
     * *Naive Bayes Classifier*
-* **Narzędzia:** 🐍 Python, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+* **Narzędzia:** Python, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 
-**🎮 GameDev & Software Development**
-* 👾 **Unity** & **C#**
-* ⚙️ **C# .NET**
-* ⚙️ **C++** (z biblioteką SFML)
-* 🗄️ **SQL**
+** GameDev & Software Development**
+*  **C# .NET**
+*  **C++** (z biblioteką SFML)
+*  **SQL**
+*  **Unity** & **C#**
 
 ---
 
